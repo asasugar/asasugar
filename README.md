@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asasugar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asasugar&count_private=true&show_icons=true&theme=tokyonight&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asasugar&count_private=true&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asasugar&repo=Blog&show_owner=true)](https://github.com/asasugar/Blog)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asasugar&repo=Blog&show_owner=true)](https://github.com/asasugar/Blog)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asasugar&repo=custom-json2excel&show_owner=true)](https://github.com/asasugar/custom-json2excel)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asasugar&repo=vite-element-plus-admin&show_owner=true)](https://github.com/asasugar/vite-element-plus-admin)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asasugar&repo=web-temp-cli&show_owner=true)](https://github.com/asasugar/web-temp-cli)
@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asasugar&repo=react-native-picker&show_owner=true)](https://github.com/asasugar/react-native-picker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asasugar&repo=multi-page-app&show_owner=true)](https://github.com/asasugar/multi-page-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asasugar&repo=calendar&show_owner=true)](https://github.com/asasugar/calendar)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asasugar&repo=evenBus&show_owner=true)](https://github.com/asasugar/evenBus)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asasugar&repo=evenBus&show_owner=true)](https://github.com/asasugar/evenBus) -->
