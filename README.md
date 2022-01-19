@@ -1,23 +1,24 @@
-### Hi there 👋
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 
-<!--
-**asasugar/asasugar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">I'm Asasugar</h1>
+<h3 align="center">A passionate web developer from China</h3>
 
-Here are some ideas to get you started:
+### 📖 Language:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=asasugar&layout=compact"><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asasugar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 🌈 Github Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asasugar&count_private=true&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@asasugar?theme=rule34"></a><br>
+<img src = "https://github-readme-stats.vercel.app/api?username=asasugar&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<img src = "http://github-readme-streak-stats.herokuapp.com?user=asasugar&theme=dracula">
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asasugar&theme=monokai">
+
+### 📫 How to reach me:
+- :octocat: [github@asasugar](https://github.com/asasugar)
+- :email: [gmail@xxj95719](mailto:xxj95719@gmail.com)
+- :pencil2: [blog@xxjqepk](http://blog.xxjqepk.cn/)
+- :handshake: wechat@xxj95719
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asasugar&repo=Blog&show_owner=true)](https://github.com/asasugar/Blog)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asasugar&repo=custom-json2excel&show_owner=true)](https://github.com/asasugar/custom-json2excel)
