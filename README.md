@@ -1,5 +1,5 @@
-<h1 align="center">I'm as a sugar</h1>
-<h3 align="center">A passionate web developer from China</h3>
+<h1 align="center">I'm Jay Hsueh.</h1>
+<h3 align="center">A passionate web developer from China.</h3>
 
 ### 🌈 Github Stats:
 
