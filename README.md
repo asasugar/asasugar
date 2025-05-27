@@ -10,6 +10,6 @@
 
 ### 📫 How to reach me:
 
-- 💬 微信 : xxj95719
-- 📧 Email : [xxj95719@gmail.com](mailto:xxj95719@gmail.com)
+- 💬 微信 : jay-hsueh
+- 📧 Email : [jayhsueh95@gmail.com](mailto:jayhsueh95@gmail.com)
 - 📁 博客 : [随便写写](http://blog.xxjqepk.cn/)
